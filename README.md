@@ -1,5 +1,5 @@
 # Iris Data Classification
-Classification on Iris Dataset using different Scikit-learn Packages.
+Classification Of 3 different types of of irises’ (Setosa, Versicolour, and Virginica) petal and sepal length.
 
 # Overview
 This is Simple Implementation of Scikit-learn Package to show the scikit-learn classification methods on the Iris dataset. 
